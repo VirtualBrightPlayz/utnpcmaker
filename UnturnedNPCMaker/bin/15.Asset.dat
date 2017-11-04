@@ -1,0 +1,23 @@
+Type NPC
+ID 15
+
+Shirt 1
+Pants 1
+Mask 1
+Hat 1
+Backpack 1
+Glasses 1
+Vest 1
+
+Face 31
+Beard 15
+Hair 22
+Color_Skin #0B0B6F
+Color_Hair #010B6F
+
+
+Primary 1
+Secondary 1
+Tertiary 1
+Equipped Primary
+Pose Stand

@@ -1,0 +1,9 @@
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.exe.config
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.exe
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.pdb
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.Form1.resources
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.Properties.Resources.resources
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csproj.GenerateResource.Cache
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csproj.CoreCompileInputs.cache
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.exe
+d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.pdb
