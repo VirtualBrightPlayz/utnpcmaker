@@ -1,0 +1,22 @@
+Type NPC
+ID 6000
+
+Shirt 211
+Pants 208
+Mask 0
+Hat 0
+Backpack 1496
+Glasses 0
+Vest 0
+
+Face 19
+Beard 0
+Hair 3
+Color_Skin #007800
+Color_Hair #AC6A39
+
+
+Secondary 1030
+Tertiary 82
+Equipped Tertiary
+Pose Crouch

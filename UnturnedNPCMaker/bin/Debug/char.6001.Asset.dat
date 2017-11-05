@@ -1,0 +1,21 @@
+Type NPC
+ID 6001
+
+Shirt 537
+Pants 692
+Mask 789
+Hat 738
+Backpack 797
+Glasses 334
+Vest 1497
+
+Face 12
+Beard 9
+Hair 14
+Color_Skin #007800
+Color_Hair #AC6A39
+
+
+Tertiary 1464
+Equipped Tertiary
+Pose Sit

@@ -7,3 +7,13 @@ d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNP
 d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csproj.CoreCompileInputs.cache
 d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.exe
 d:\users\brian\documents\visual studio 2017\Projects\UnturnedNPCMaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.pdb
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.exe.config
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.exe
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\bin\Release\UnturnedNPCMaker.pdb
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csprojResolveAssemblyReference.cache
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.Form1.resources
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.Properties.Resources.resources
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csproj.GenerateResource.Cache
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.csproj.CoreCompileInputs.cache
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.exe
+D:\Users\Brian\Documents\GitHub\utnpcmaker\UnturnedNPCMaker\obj\Release\UnturnedNPCMaker.pdb
